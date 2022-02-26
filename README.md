@@ -1,4 +1,4 @@
-# This project folder consists of a Shopping Cart SPA and my CraigsList redesign that implements a drop-down menu for each listing cateogory in order to make the home page less cluttered with hyperlinks.
+# This project folder consists of a Shopping Cart SPA and my CraigsList redesign that implements a drop-down menu for each listing cateogory in order to make the home page less cluttered with hyperlinks. I also added capital letters throughout the web page as needed, as almost all of the text was in lowercase.
 
 # Getting Started with Create React App
 
